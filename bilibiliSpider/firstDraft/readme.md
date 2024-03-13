@@ -127,7 +127,7 @@
 ## 完善项目
 
 1. 给这个项目设计一款qt界面，方便爬取。
-    ![初步设计图](https://github.com/happy-join-github/PythonReptile/blob/main/firstDraft/images/qt.png)
+    ![初步设计图](https://github.com/happy-join-github/pythonSpider/blob/main/bilibiliSpider/firstDraft/images/qt.png)
 
 2. 完善开发，添加更多的功能。
 
